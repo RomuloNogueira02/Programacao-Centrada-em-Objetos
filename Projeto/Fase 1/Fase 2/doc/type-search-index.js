@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"PCOFase2"},{"p":"<Unnamed>","l":"Planeta"},{"p":"<Unnamed>","l":"Propriedade"},{"p":"<Unnamed>","l":"SistemaSolar"},{"p":"<Unnamed>","l":"Verificador"}];updateSearchResults();
